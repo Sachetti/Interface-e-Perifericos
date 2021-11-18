@@ -17,4 +17,5 @@ The system also use a RGB colour sensor (TCS230) and an ESP8266 device (Wemos D1
 
 The best usage of the system is collecting the water from these environments and mixing with the cabbage essence some times per day, and this mixture is analyzed by the sensor. The data storaged in the platform can be analyzed using some machine learning algorithm in the future, like anomaly detection or time series prediction. For last we have a video showing the mixtures with the cabbage juice, we used water, lemon, vinegar and sodium bicarbonate, and the data was send to Thingspeak using the ESP8266 by wifi.
 
-https://www.youtube.com/watch?v=4HbXtNFfKGo
+
+[![Watch the video](https://img.youtube.com/vi/4HbXtNFfKGo/maxresdefault.jpg)](https://www.youtube.com/watch?v=4HbXtNFfKGo)
